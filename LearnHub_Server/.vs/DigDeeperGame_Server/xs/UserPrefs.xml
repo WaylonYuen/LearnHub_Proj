@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{4C6D5DE6-B5E0-45FB-9CFE-4707542019D0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DigDeeperGame_Server/Setup.cs">
+    <Files>
+      <File FileName="DigDeeperGame_Server/Network/Packet.cs" Line="588" Column="1" />
+      <File FileName="DigDeeperGame_Server/Server/Server.cs" />
+      <File FileName="DigDeeperGame_Server/Game/Data/DataBuffer/ClientData.cs" Line="8" Column="18" NotebookId="1" />
+      <File FileName="DigDeeperGame_Server/Network/CallBack/PK_CallBackMethons.cs" NotebookId="1" />
+      <File FileName="DigDeeperGame_Server/Server/Start.cs" NotebookId="1" />
+      <File FileName="DigDeeperGame_Server/Setup.cs" Line="14" Column="47" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DigDeeperGame_Server" expanded="True" selected="True">
+            <Node name="DigDeeperGame_Server" expanded="True">
+              <Node name="Server" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LearnHub.Server PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../DigDeeperGame_Server/Network/CallBack/PK_CallBackMethons.cs" line="149" offsetX="-1" offsetY="-1" expression="player.GameRoom" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

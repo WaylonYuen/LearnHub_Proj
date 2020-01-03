@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{0EEEF41E-C533-AF27-BBFC-A938631F306E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/03.Scripts/03.Input/Button Pack/Scripts/Base/Button.cs">
+    <Files>
+      <File FileName="Assets/03.Scripts/03.Input/Button Pack/Scripts/Menu/BtnJoin.cs" Line="30" Column="35" />
+      <File FileName="Assets/03.Scripts/03.Input/Button Pack/Scripts/Menu/BtnMatchRoomExit.cs" Line="1" Column="1" />
+      <File FileName="Assets/03.Scripts/03.Input/Button Pack/Scripts/BtnSettingMenu.cs" Line="21" Column="18" />
+      <File FileName="Assets/03.Scripts/03.Input/Button Pack/Scripts/Base/Button.cs" Line="19" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dig Deeper Game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="03.Scripts" expanded="True">
+                <Node name="01.Online" expanded="True" />
+                <Node name="03.Input" expanded="True">
+                  <Node name="Button Pack" expanded="True">
+                    <Node name="Scripts" expanded="True">
+                      <Node name="Base" expanded="True">
+                        <Node name="Button.cs" selected="True" />
+                      </Node>
+                      <Node name="Menu" expanded="True" />
+                    </Node>
+                  </Node>
+                  <Node name="Touch Pack" expanded="True">
+                    <Node name="Base" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="04.UGUI" expanded="True" />
+              </Node>
+              <Node name="04.Characters" expanded="True">
+                <Node name="00.Category_Create" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Test/Test.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ea295345-d56e-476d-ba35-b4c3e833ddce" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

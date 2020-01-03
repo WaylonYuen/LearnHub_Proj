@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{4C6D5DE6-B5E0-45FB-9CFE-4707542019D0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LearnHub_Server/DataBase/MySQL.cs">
+    <Files>
+      <File FileName="LearnHub_Server/Server/Start.cs" Line="16" Column="17" />
+      <File FileName="LearnHub_Server/Network/NetworkUtil.cs" Line="63" Column="6" />
+      <File FileName="LearnHub_Server/Network/CallBack/PK_CallBackMethons.cs" Line="63" Column="1" />
+      <File FileName="LearnHub_Server/Game/Data/DataBuffer/CourseData.cs" Line="36" Column="18" />
+      <File FileName="LearnHub_Server/Network/CallBack/DB_CallBackMethods.cs" Line="70" Column="10" />
+      <File FileName="LearnHub_Server/DataBase/MySQL.cs" Line="104" Column="10" NotebookId="1" />
+      <File FileName="LearnHub_Server/Game/Data/DataBuffer/ClientData.cs" Line="17" Column="27" NotebookId="1" />
+      <File FileName="LearnHub_Server/Server/Server.cs" Line="35" Column="32" NotebookId="1" />
+      <File FileName="LearnHub_Server/Server/Server.cs" Line="77" Column="1" NotebookId="1" />
+      <File FileName="LearnHub_Server/Setup.cs" Line="14" Column="53" NotebookId="1" />
+      <File FileName="LearnHub_Server/Network/Packet.cs" Line="65" Column="37" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LearnHub.Server" expanded="True">
+            <Node name="LearnHub.Server" expanded="True">
+              <Node name="DataBase" expanded="True">
+                <Node name="MySQL.cs" selected="True" />
+              </Node>
+              <Node name="Game" expanded="True">
+                <Node name="Data" expanded="True">
+                  <Node name="DataBuffer" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Network" expanded="True">
+                <Node name="CallBack" expanded="True" />
+              </Node>
+              <Node name="Server" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LearnHub.Server PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../DigDeeperGame_Server/Network/CallBack/PK_CallBackMethons.cs" line="149" offsetX="-1" offsetY="-1" expression="player.GameRoom" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <DisabledProjects>
+    <String>DigDeeperGame_Server/LearnHub.Server.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

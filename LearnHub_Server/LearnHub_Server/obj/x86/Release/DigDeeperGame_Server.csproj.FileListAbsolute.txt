@@ -1,0 +1,14 @@
+/Users/waylon/Document/Course/#( Project ) Independent Study/Project/DigDeeperGame_Server/DigDeeperGame_Server/bin/Release/DigDeeperGame_Server.exe.config
+/Users/waylon/Document/Course/#( Project ) Independent Study/Project/DigDeeperGame_Server/DigDeeperGame_Server/bin/Release/DigDeeperGame_Server.exe
+/Users/waylon/Document/Course/#( Project ) Independent Study/Project/DigDeeperGame_Server/DigDeeperGame_Server/bin/Release/EntityFramework.dll
+/Users/waylon/Document/Course/#( Project ) Independent Study/Project/DigDeeperGame_Server/DigDeeperGame_Server/bin/Release/MySql.Data.dll
+/Users/waylon/Document/Course/#( Project ) Independent Study/Project/DigDeeperGame_Server/DigDeeperGame_Server/bin/Release/MySql.Data.Entity.EF5.dll
+/Users/waylon/Document/Course/#( Project ) Independent Study/Project/DigDeeperGame_Server/DigDeeperGame_Server/bin/Release/MySql.Fabric.Plugin.dll
+/Users/waylon/Document/Course/#( Project ) Independent Study/Project/DigDeeperGame_Server/DigDeeperGame_Server/bin/Release/nunit.framework.dll
+/Users/waylon/Document/Course/#( Project ) Independent Study/Project/DigDeeperGame_Server/DigDeeperGame_Server/bin/Release/SQL.dll
+/Users/waylon/Document/Course/#( Project ) Independent Study/Project/DigDeeperGame_Server/DigDeeperGame_Server/bin/Release/nunit.framework.pdb
+/Users/waylon/Document/Course/#( Project ) Independent Study/Project/DigDeeperGame_Server/DigDeeperGame_Server/bin/Release/nunit.framework.xml
+/Users/waylon/Document/Course/#( Project ) Independent Study/Project/DigDeeperGame_Server/DigDeeperGame_Server/bin/Release/EntityFramework.xml
+/Users/waylon/Document/Course/#( Project ) Independent Study/Project/DigDeeperGame_Server/DigDeeperGame_Server/obj/x86/Release/DigDeeperGame_Server.csproj.CopyComplete
+/Users/waylon/Document/Course/#( Project ) Independent Study/Project/DigDeeperGame_Server/DigDeeperGame_Server/obj/x86/Release/DigDeeperGame_Server.exe
+/Users/waylon/Document/Course/#( Project ) Independent Study/Project/DigDeeperGame_Server/DigDeeperGame_Server/obj/x86/Release/DigDeeperGame_Server.csprojAssemblyReference.cache

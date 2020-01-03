@@ -1,0 +1,16 @@
+/Users/waylon/Desktop/LearnHub_Server/LearnHub_Server/bin/Debug/DigDeeperGame_Server.exe.config
+/Users/waylon/Desktop/LearnHub_Server/LearnHub_Server/bin/Debug/DigDeeperGame_Server.exe
+/Users/waylon/Desktop/LearnHub_Server/LearnHub_Server/bin/Debug/DigDeeperGame_Server.pdb
+/Users/waylon/Desktop/LearnHub_Server/LearnHub_Server/bin/Debug/EntityFramework.dll
+/Users/waylon/Desktop/LearnHub_Server/LearnHub_Server/bin/Debug/MySql.Data.dll
+/Users/waylon/Desktop/LearnHub_Server/LearnHub_Server/bin/Debug/MySql.Data.Entity.EF5.dll
+/Users/waylon/Desktop/LearnHub_Server/LearnHub_Server/bin/Debug/MySql.Fabric.Plugin.dll
+/Users/waylon/Desktop/LearnHub_Server/LearnHub_Server/bin/Debug/nunit.framework.dll
+/Users/waylon/Desktop/LearnHub_Server/LearnHub_Server/bin/Debug/SQL.dll
+/Users/waylon/Desktop/LearnHub_Server/LearnHub_Server/bin/Debug/nunit.framework.pdb
+/Users/waylon/Desktop/LearnHub_Server/LearnHub_Server/bin/Debug/nunit.framework.xml
+/Users/waylon/Desktop/LearnHub_Server/LearnHub_Server/bin/Debug/EntityFramework.xml
+/Users/waylon/Desktop/LearnHub_Server/LearnHub_Server/obj/x86/Debug/LearnHub.Server.csprojAssemblyReference.cache
+/Users/waylon/Desktop/LearnHub_Server/LearnHub_Server/obj/x86/Debug/LearnHub.Server.csproj.CopyComplete
+/Users/waylon/Desktop/LearnHub_Server/LearnHub_Server/obj/x86/Debug/DigDeeperGame_Server.exe
+/Users/waylon/Desktop/LearnHub_Server/LearnHub_Server/obj/x86/Debug/DigDeeperGame_Server.pdb
